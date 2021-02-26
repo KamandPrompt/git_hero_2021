@@ -7,10 +7,13 @@ The [DehlaPakad](https://dehlapakad.com) team wants to create a new game. But th
 ## Get started
 To get started, go to the [issues](https://github.com/KamandPrompt/git_hero_2021/issues) tab. Start with the challenge 1 to challenge 6. The scores for them are alongside and they go in order, so until you complete the challenge1, you cannot move to challenge2. You need to complete previous challenges first.
 
+## Some Tips
+Google, git status and git log are your best friends in this challenge.
+
 Try to complete as many challenge as you can. All the Best! What are you waiting for now? Go start with the challenges.
 
 
-## After Finishing
+## After Finishing all the challenges
 Once you Complete the Game, try to play the game with the following controls.
 |              | Button              |
 |--------------|---------------------|
