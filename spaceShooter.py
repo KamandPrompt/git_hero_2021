@@ -21,8 +21,8 @@ import random
 from os import path
 
 ## assets folder
-#img_dir = path.join(path.dirname(__file__), 'assets')
-#sound_folder = path.join(path.dirname(__file__), 'sounds')
+# img_dir = path.join(path.dirname(__file__), 'assets')
+# sound_folder = path.join(path.dirname(__file__), 'sounds')
 
 ###############################
 ## to be placed in "constant.py" later
