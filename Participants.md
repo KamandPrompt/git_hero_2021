@@ -1,4 +1,2 @@
 ## These are the particpipants
-Pranshu
-Priyam
-DK
+Shri Janani Senthil (B20232)
