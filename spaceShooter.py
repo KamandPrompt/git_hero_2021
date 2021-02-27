@@ -21,8 +21,8 @@ import random
 from os import path
 
 ## assets folder
-# img_dir = path.join(path.dirname(__file__), 'assets')
-# sound_folder = path.join(path.dirname(__file__), 'sounds')
+img_dir = path.join(path.dirname(__file__), 'assets')
+sound_folder = path.join(path.dirname(__file__), 'sounds')
 
 ###############################
 ## to be placed in "constant.py" later
@@ -541,11 +541,11 @@ while running:
         # print("Hack the game!")
 
         # To immediately end the game, you may need to comment the next 1 line
-        running = False
+        # running = False
 
         # To make the game restart you need to uncomment these two following lines
-        # menu_display = True
-        # pygame.display.update()
+        menu_display = True
+        pygame.display.update()
 
 
     #3 Draw/render
