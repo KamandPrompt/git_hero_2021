@@ -2,4 +2,4 @@
 Pranshu
 Priyam
 DK
-Lavish (B20113)
+Lavish SAchdeva (B20113)
