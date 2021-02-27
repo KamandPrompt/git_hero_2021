@@ -47,23 +47,29 @@ git rebase -i HEAD~4			//merged the last 4 commits
 //rest same as above
 ----last 3 commits----
 
-commit dace52eb761625c248a10a3529917807c3309882 (HEAD -> challenge3)
-Author: Signior-X <b19188@students.iitmandi.ac.in>
-Date:   Sat Feb 27 02:26:59 2021 +0530
+commit e987a4b235672b3f090311cd8d5e7ced193d62b1 (HEAD -> challenge3, origin/challenge3)
+Author: Ritam727 <b20127@students.iitmandi.ac.in>
+Date:   Sat Feb 27 14:09:45 2021 +0530
 
+    added required changes
+    
+    Added Assets
+    
+    Added sounds
+    
     Added congrats
 
-commit e05bd11cb0b8da5969148728c0fa14423f9f9d95
+commit d64aeb6fc5052e4a86ae52e7ac0a3bfca7169556 (origin/main, origin/HEAD, main)
+Author: Ritam727 <79043763+Ritam727@users.noreply.github.com>
+Date:   Sat Feb 27 13:01:30 2021 +0530
+
+    Name added
+
+commit c939228523637454420689997d4d5367b03cd283 (upstream/main)
 Author: Signior-X <b19188@students.iitmandi.ac.in>
-Date:   Sat Feb 27 02:25:22 2021 +0530
+Date:   Sat Feb 27 02:09:47 2021 +0530
 
-    Added sounds
-
-commit 7070a0599d9f273c8d8547de999b97b29f07b601
-Author: Signior-X <b19188@students.iitmandi.ac.in>
-Date:   Sat Feb 27 02:25:12 2021 +0530
-
-    Added Assets
+    Ready for the Event
 
 ----
 
