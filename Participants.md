@@ -1,4 +1,4 @@
 ## These are the particpipants
 Pranshu
 Priyam
-DK
+Nikhil Ujjwal (B20056)
